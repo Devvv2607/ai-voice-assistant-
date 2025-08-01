@@ -1,0 +1,29 @@
+# Core dependencies
+speechrecognition==3.10.0
+pyttsx3==2.90
+requests==2.31.0
+python-dotenv==1.0.0
+
+# LangChain
+langchain==0.1.0
+pydantic==2.5.0
+
+# Google APIs  
+google-auth==2.23.0
+google-auth-oauthlib==1.1.0
+google-auth-httplib2==0.2.0
+google-api-python-client==2.100.0
+
+# Web scraping and parsing
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# Natural language processing
+nltk==3.8.1
+
+# Email
+secure-smtplib==0.1.1
+
+# Cross-platform audio (replaces PyAudio)
+sounddevice==0.4.6
+numpy==1.24.3
